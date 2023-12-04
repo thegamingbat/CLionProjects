@@ -1,0 +1,8 @@
+# ninja log v5
+6	340	7184179548614067	CMakeFiles/theory_part_2.dir/main.cpp.obj	ef9c3d3d2e99383e
+410	527	7184169798614835	theory_part_2.exe	e2f547abea5d0a67
+3	329	7184179548504046	CMakeFiles/theory_part_2.dir/Time.cpp.obj	47919773151a37dc
+2	319	7184143843811122	CMakeFiles/theory_part_2.dir/LinkedList.cpp.obj	492c1dbc7fb83daa
+0	109	7184179660695142	build.ninja	4d5e3c75dda5126c
+1	112	7184179660695142	build.ninja	4d5e3c75dda5126c
+2	87	7184179661825398	theory_part_2.exe	1e04208f1da113ae

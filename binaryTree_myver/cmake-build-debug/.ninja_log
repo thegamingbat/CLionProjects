@@ -1,0 +1,6 @@
+# ninja log v5
+2	341	7224522710551654	CMakeFiles/binaryTree_myver.dir/main.cpp.obj	86a15cf56405286
+342	443	7224522711541866	binaryTree_myver.exe	a9b72761dd5d2039
+7	86	7224602525721055	CMakeFiles/binaryTree_myver.dir/BST_Node.cpp.obj	b0ad468aaf0243a4
+2	372	7224602528571694	CMakeFiles/binaryTree_myver.dir/main.cpp.obj	86a15cf56405286
+373	503	7224602529851994	binaryTree_myver.exe	169172c4795b67ff

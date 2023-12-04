@@ -1,0 +1,4 @@
+auto *p = new Person();
+    p->setName("dnsh");
+    p->setAge(20);
+    cout<< p->getName() << " " << p->getAge() <<

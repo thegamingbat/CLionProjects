@@ -1,0 +1,6 @@
+# ninja log v5
+8	161	7228241669249926	CMakeFiles/assembly_pract.dir/decimalToBinary.c.obj	a501d03f34c4d9ab
+71	185	7228242769277485	assembly_pract.exe	a808daa40c671ab1
+5	108	7228262574331516	CMakeFiles/assembly_pract.dir/decToHexa.c.obj	712cf8069209c633
+8	107	7228262574331516	CMakeFiles/assembly_pract.dir/bitwise_oprations.c.obj	7304e07c4f79c096
+2	108	7228262574331516	CMakeFiles/assembly_pract.dir/show_byte.c.obj	f6ca893f4098b20b

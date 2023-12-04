@@ -1,0 +1,20 @@
+# ninja log v5
+1	785	7184655998052341	CMakeFiles/practice_cpp.dir/Person.cpp.obj	ec28f53d107d0f73
+3	309	7185799370984930	CMakeFiles/practice_cpp.dir/main.cpp.obj	bc8426bbe4c08089
+309	395	7185799371833560	practice_cpp.exe	3fba965ca1107682
+1	111	7197739937148950	build.ninja	8288f71a719b5973
+9	61	7185798662591197	CMakeFiles/practice_cpp.dir/Test.cpp.obj	c62430a5566b23fa
+385	480	7185850107155882	main.cpp.exe	4c8eae7e989d9e2f
+1	120	7185839505152531	CMakeFiles/main.cpp.dir/Box/Box.cpp.obj	e7c7c94fec76c69b
+2	303	7185861412616419	CMakeFiles/main.cpp.dir/main.cpp.obj	3d10b410f9de42c5
+2	314	7185860770738760	CMakeFiles/main.cpp.dir/ArrayOverload.cpp.obj	6bf5e6889825e99b
+5	327	7185860770875840	CMakeFiles/main.cpp.dir/List.cpp.obj	c281bc62de326588
+3	177	7197740028314655	main.cpp.exe	af02757a08e9642
+3	442	7197746220316511	CMakeFiles/main.cpp.dir/main.cpp.obj	3d10b410f9de42c5
+442	535	7197746221216712	main.cpp.exe	af02757a08e9642
+3	322	7197746640846465	CMakeFiles/main.cpp.dir/main.cpp.obj	3d10b410f9de42c5
+322	411	7197746641706658	main.cpp.exe	af02757a08e9642
+2	314	7197746935281551	CMakeFiles/main.cpp.dir/main.cpp.obj	3d10b410f9de42c5
+315	417	7197746936281785	main.cpp.exe	af02757a08e9642
+3	309	7197747309279399	CMakeFiles/main.cpp.dir/main.cpp.obj	3d10b410f9de42c5
+309	408	7197747310252096	main.cpp.exe	af02757a08e9642

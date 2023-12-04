@@ -1,0 +1,3 @@
+C:/Users/danis/CLionProjects/assembly_pract/cmake-build-debug/CMakeFiles/assembly_pract.dir
+C:/Users/danis/CLionProjects/assembly_pract/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danis/CLionProjects/assembly_pract/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/danis/CLionProjects/queue_myver/cmake-build-debug/CMakeFiles/queue_myver.dir
+C:/Users/danis/CLionProjects/queue_myver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danis/CLionProjects/queue_myver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

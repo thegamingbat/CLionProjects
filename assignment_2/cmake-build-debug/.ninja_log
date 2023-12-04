@@ -1,0 +1,24 @@
+# ninja log v5
+15	559	7233313442900173	CMakeFiles/assignment_2.dir/main.cpp.obj	b317d427220a8a1
+9	559	7233313442900173	CMakeFiles/assignment_2.dir/Ticket.cpp.obj	b22d4bf96fee2b00
+560	715	7233313444430527	assignment_2.exe	b48554d3ec56af7
+23	223	7233967806516134	CMakeFiles/assignment_2.dir/node.cpp.obj	4af31876718fb6c2
+7	223	7233967806516134	CMakeFiles/assignment_2.dir/TicketQueue.cpp.obj	3928e39bd989d1fb
+3	495	7233967809221207	CMakeFiles/assignment_2.dir/Ticket.cpp.obj	b22d4bf96fee2b00
+495	661	7233967810871582	assignment_2.exe	9aa4286ad892ba3d
+8	319	7233999380445335	CMakeFiles/assignment_2.dir/node.cpp.obj	4af31876718fb6c2
+4	319	7233999380465344	CMakeFiles/assignment_2.dir/TicketQueue.cpp.obj	3928e39bd989d1fb
+320	427	7233999381509998	assignment_2.exe	9aa4286ad892ba3d
+7	418	7234015457897369	CMakeFiles/assignment_2.dir/TicketQueue.cpp.obj	3928e39bd989d1fb
+3	425	7234015457967390	CMakeFiles/assignment_2.dir/Ticket.cpp.obj	b22d4bf96fee2b00
+13	433	7234015458047401	CMakeFiles/assignment_2.dir/node.cpp.obj	4af31876718fb6c2
+10	442	7234015458137431	CMakeFiles/assignment_2.dir/main.cpp.obj	b317d427220a8a1
+442	552	7234015459207665	assignment_2.exe	9aa4286ad892ba3d
+4	457	7234071705987852	CMakeFiles/assignment_2.dir/Ticket.cpp.obj	b22d4bf96fee2b00
+8	458	7234071705997819	CMakeFiles/assignment_2.dir/TicketQueue.cpp.obj	3928e39bd989d1fb
+458	606	7234071707448146	assignment_2.exe	9aa4286ad892ba3d
+5	687	7234072822028958	CMakeFiles/assignment_2.dir/main.cpp.obj	b317d427220a8a1
+688	861	7234072823729331	assignment_2.exe	9aa4286ad892ba3d
+4	507	7234077374841177	CMakeFiles/assignment_2.dir/TicketQueue.cpp.obj	3928e39bd989d1fb
+8	508	7234077374841177	CMakeFiles/assignment_2.dir/main.cpp.obj	b317d427220a8a1
+508	656	7234077376298973	assignment_2.exe	9aa4286ad892ba3d

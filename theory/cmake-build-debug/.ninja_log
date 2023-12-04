@@ -1,0 +1,19 @@
+# ninja log v5
+2	315	7184752370127425	build.ninja	de263f24e4a584fd
+3	353	7184121317756734	CMakeFiles/theory.dir/LinkedList1/linklist.cpp.obj	7324741fb441cdc4
+6	344	7184747929990307	CMakeFiles/theory.dir/LinkedList1/Student.cpp.obj	ba1b6d512330485c
+3	367	7184730343441260	CMakeFiles/theory.dir/LinkedList1/main.cpp.obj	3f6a34038b80426f
+274	362	7184734751966003	theory.exe	890775ceefd13dbc
+8	296	7183986113948575	CMakeFiles/theory.dir/LinkedList1/node.cpp.obj	eee5d7b14acd01ea
+11	390	7183967789436311	CMakeFiles/theory.dir/LinkedList1/simpleNode.cpp.obj	8ca50b6dae82d73b
+1	112	7184752370127425	build.ninja	de263f24e4a584fd
+3	314	7184752373538193	CMakeFiles/theory.dir/LinkedList1/main.cpp.obj	3f6a34038b80426f
+314	420	7184752374578434	theory.exe	c2a3b1cbfd43fb49
+2	322	7184752582124802	CMakeFiles/theory.dir/LinkedList1/main.cpp.obj	3f6a34038b80426f
+322	414	7184752583025004	theory.exe	c2a3b1cbfd43fb49
+2	315	7184752779088472	CMakeFiles/theory.dir/LinkedList1/main.cpp.obj	3f6a34038b80426f
+315	408	7184752779988677	theory.exe	c2a3b1cbfd43fb49
+3	326	7184752912853328	CMakeFiles/theory.dir/LinkedList1/main.cpp.obj	3f6a34038b80426f
+327	418	7184752913743530	theory.exe	c2a3b1cbfd43fb49
+3	310	7184759851169167	CMakeFiles/theory.dir/LinkedList1/main.cpp.obj	3f6a34038b80426f
+310	399	7184759852032076	theory.exe	c2a3b1cbfd43fb49

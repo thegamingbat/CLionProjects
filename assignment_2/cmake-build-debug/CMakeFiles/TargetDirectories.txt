@@ -1,0 +1,3 @@
+C:/Users/danis/CLionProjects/assignment_2/cmake-build-debug/CMakeFiles/assignment_2.dir
+C:/Users/danis/CLionProjects/assignment_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danis/CLionProjects/assignment_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
