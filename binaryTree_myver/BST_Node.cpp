@@ -13,6 +13,15 @@ public:
         right = nullptr;
 
     }
+
+    void inorder(BST_Node* root){
+        if(root == NULL){return; }
+        inorder(root->left);
+        std::cout<<root->data;
+        inorder(root->right);
+
+
+    }
     BST_Node* insertBST(BST_Node* root , int val){
 
         if(root ==  NULL){
@@ -27,13 +36,12 @@ public:
         }
         return root;
     }
-    void inorder(BST_Node* root){
-        if(root == NULL){return; }
-        inorder(root->left);
-        std::cout<<root->data;
-        inorder(root->right);
 
 
-    }
+
+
+
+
+
 
 };

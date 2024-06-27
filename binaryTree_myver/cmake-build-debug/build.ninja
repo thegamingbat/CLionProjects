@@ -61,6 +61,12 @@ build CMakeFiles/binaryTree_myver.dir/BST_Node.cpp.obj: CXX_COMPILER__binaryTree
   OBJECT_DIR = CMakeFiles\binaryTree_myver.dir
   OBJECT_FILE_DIR = CMakeFiles\binaryTree_myver.dir
 
+build CMakeFiles/binaryTree_myver.dir/BST.cpp.obj: CXX_COMPILER__binaryTree_myver_Debug C$:/Users/danis/CLionProjects/binaryTree_myver/BST.cpp || cmake_object_order_depends_target_binaryTree_myver
+  DEP_FILE = CMakeFiles\binaryTree_myver.dir\BST.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\binaryTree_myver.dir
+  OBJECT_FILE_DIR = CMakeFiles\binaryTree_myver.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target binaryTree_myver
@@ -69,7 +75,7 @@ build CMakeFiles/binaryTree_myver.dir/BST_Node.cpp.obj: CXX_COMPILER__binaryTree
 #############################################
 # Link the executable binaryTree_myver.exe
 
-build binaryTree_myver.exe: CXX_EXECUTABLE_LINKER__binaryTree_myver_Debug CMakeFiles/binaryTree_myver.dir/main.cpp.obj CMakeFiles/binaryTree_myver.dir/BST_Node.cpp.obj
+build binaryTree_myver.exe: CXX_EXECUTABLE_LINKER__binaryTree_myver_Debug CMakeFiles/binaryTree_myver.dir/main.cpp.obj CMakeFiles/binaryTree_myver.dir/BST_Node.cpp.obj CMakeFiles/binaryTree_myver.dir/BST.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\binaryTree_myver.dir

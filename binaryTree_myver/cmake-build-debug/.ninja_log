@@ -1,6 +1,14 @@
 # ninja log v5
-2	341	7224522710551654	CMakeFiles/binaryTree_myver.dir/main.cpp.obj	86a15cf56405286
-342	443	7224522711541866	binaryTree_myver.exe	a9b72761dd5d2039
-7	86	7224602525721055	CMakeFiles/binaryTree_myver.dir/BST_Node.cpp.obj	b0ad468aaf0243a4
 2	372	7224602528571694	CMakeFiles/binaryTree_myver.dir/main.cpp.obj	86a15cf56405286
 373	503	7224602529851994	binaryTree_myver.exe	169172c4795b67ff
+7	86	7224602525721055	CMakeFiles/binaryTree_myver.dir/BST_Node.cpp.obj	b0ad468aaf0243a4
+20	634	7237303393140267	CMakeFiles/binaryTree_myver.dir/BST.cpp.obj	619d497d523ad4d1
+13	636	7237303393140267	CMakeFiles/binaryTree_myver.dir/BST_Node.cpp.obj	b0ad468aaf0243a4
+4	600	7237304867247975	CMakeFiles/binaryTree_myver.dir/BST.cpp.obj	619d497d523ad4d1
+6	614	7237305392708231	CMakeFiles/binaryTree_myver.dir/BST.cpp.obj	619d497d523ad4d1
+4	569	7237305630242845	CMakeFiles/binaryTree_myver.dir/BST.cpp.obj	619d497d523ad4d1
+6	583	7237306057866291	CMakeFiles/binaryTree_myver.dir/main.cpp.obj	86a15cf56405286
+584	836	7237306060346856	binaryTree_myver.exe	70900214c259cc5b
+11	611	7237315901626353	CMakeFiles/binaryTree_myver.dir/BST.cpp.obj	619d497d523ad4d1
+4	613	7237315901656387	CMakeFiles/binaryTree_myver.dir/main.cpp.obj	86a15cf56405286
+614	805	7237315903546809	binaryTree_myver.exe	70900214c259cc5b

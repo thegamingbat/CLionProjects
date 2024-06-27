@@ -3,4 +3,4 @@ project(binaryTree_myver)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(binaryTree_myver main.cpp BST_Node.cpp)
+add_executable(binaryTree_myver main.cpp BST_Node.cpp BST.cpp)

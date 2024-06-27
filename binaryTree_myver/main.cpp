@@ -1,5 +1,6 @@
 #include <iostream>
-#include "BST_Node.cpp"
+
+#include "BST.cpp"
 using namespace std;
 
 class Node{
@@ -42,7 +43,7 @@ void postorder(Node* root){
 
 
 
-int main() {
+//int main() {
 
 
 
@@ -89,4 +90,21 @@ int main() {
 
 
 
+//}
+int main() {
+    BST bst;
+
+    // Insert values into the BST
+    bst.insert(2);
+    bst.insert(1);
+    bst.insert(3);
+
+    // Check if the BST is valid
+    if (bst.isValid()) {
+        std::cout << "The BST is valid." << std::endl;
+    } else {
+        std::cout << "The BST is not valid." << std::endl;
+    }
+
+    return 0;
 }

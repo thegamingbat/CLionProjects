@@ -1,3 +1,11 @@
 # ninja log v5
 0	450	7220218557138843	CMakeFiles/stack_my_ver.dir/main.cpp.obj	e54dab728504254f
 452	581	7220218558419124	stack_my_ver.exe	c4dd5d99622bee6b
+17	441	7260006695244326	CMakeFiles/stack_my_ver.dir/node.cpp.obj	6075605c0fb642c9
+42	442	7260006695234349	CMakeFiles/stack_my_ver.dir/stack.cpp.obj	8fa396d7635a9351
+2	337	7260007020346288	CMakeFiles/stack_my_ver.dir/main.cpp.obj	e54dab728504254f
+338	523	7260007022176215	stack_my_ver.exe	30fb2006184fde43
+2	302	7260007690982568	CMakeFiles/stack_my_ver.dir/main.cpp.obj	e54dab728504254f
+303	409	7260007692031349	stack_my_ver.exe	30fb2006184fde43
+3	527	7260040734542795	CMakeFiles/stack_my_ver.dir/main.cpp.obj	e54dab728504254f
+527	668	7260040735942754	stack_my_ver.exe	30fb2006184fde43

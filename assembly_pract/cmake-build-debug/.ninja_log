@@ -1,6 +1,13 @@
 # ninja log v5
 8	161	7228241669249926	CMakeFiles/assembly_pract.dir/decimalToBinary.c.obj	a501d03f34c4d9ab
-71	185	7228242769277485	assembly_pract.exe	a808daa40c671ab1
+6	221	7234111625504308	CMakeFiles/assembly_pract.dir/power.c.obj	228163596d33b5bb
+53	144	7234113164502291	assembly_pract.exe	b070850eee949c58
 5	108	7228262574331516	CMakeFiles/assembly_pract.dir/decToHexa.c.obj	712cf8069209c633
 8	107	7228262574331516	CMakeFiles/assembly_pract.dir/bitwise_oprations.c.obj	7304e07c4f79c096
 2	108	7228262574331516	CMakeFiles/assembly_pract.dir/show_byte.c.obj	f6ca893f4098b20b
+1	203	7234111625344269	CMakeFiles/assembly_pract.dir/min.c.obj	47f5067b93fbc6f6
+35	230	7234111625604328	CMakeFiles/assembly_pract.dir/toggleBit.c.obj	8472c392dda28ba3
+32	230	7234111625604328	CMakeFiles/assembly_pract.dir/max.c.obj	2b3ad2aaff381897
+39	239	7234111625684349	CMakeFiles/assembly_pract.dir/sumofnatural.c.obj	7e233aaa0c7472d0
+2	53	7234113163612092	CMakeFiles/assembly_pract.dir/logicalVSbitwise.c.obj	3a9db8c5dee0cd87
+2	58	7234112945107666	CMakeFiles/assembly_pract.dir/shift_ops.c.obj	9f933a5a99b0f765

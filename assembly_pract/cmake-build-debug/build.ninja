@@ -103,6 +103,30 @@ build CMakeFiles/assembly_pract.dir/toggleBit.c.obj: C_COMPILER__assembly_pract_
   OBJECT_DIR = CMakeFiles\assembly_pract.dir
   OBJECT_FILE_DIR = CMakeFiles\assembly_pract.dir
 
+build CMakeFiles/assembly_pract.dir/logicalVSbitwise.c.obj: C_COMPILER__assembly_pract_Debug C$:/Users/danis/CLionProjects/assembly_pract/logicalVSbitwise.c || cmake_object_order_depends_target_assembly_pract
+  DEP_FILE = CMakeFiles\assembly_pract.dir\logicalVSbitwise.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\assembly_pract.dir
+  OBJECT_FILE_DIR = CMakeFiles\assembly_pract.dir
+
+build CMakeFiles/assembly_pract.dir/shift_ops.c.obj: C_COMPILER__assembly_pract_Debug C$:/Users/danis/CLionProjects/assembly_pract/shift_ops.c || cmake_object_order_depends_target_assembly_pract
+  DEP_FILE = CMakeFiles\assembly_pract.dir\shift_ops.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\assembly_pract.dir
+  OBJECT_FILE_DIR = CMakeFiles\assembly_pract.dir
+
+build CMakeFiles/assembly_pract.dir/Fig_2.3.c.obj: C_COMPILER__assembly_pract_Debug C$:/Users/danis/CLionProjects/assembly_pract/Fig_2.3.c || cmake_object_order_depends_target_assembly_pract
+  DEP_FILE = CMakeFiles\assembly_pract.dir\Fig_2.3.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\assembly_pract.dir
+  OBJECT_FILE_DIR = CMakeFiles\assembly_pract.dir
+
+build CMakeFiles/assembly_pract.dir/ppr_pract.c.obj: C_COMPILER__assembly_pract_Debug C$:/Users/danis/CLionProjects/assembly_pract/ppr_pract.c || cmake_object_order_depends_target_assembly_pract
+  DEP_FILE = CMakeFiles\assembly_pract.dir\ppr_pract.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\assembly_pract.dir
+  OBJECT_FILE_DIR = CMakeFiles\assembly_pract.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target assembly_pract
@@ -111,7 +135,7 @@ build CMakeFiles/assembly_pract.dir/toggleBit.c.obj: C_COMPILER__assembly_pract_
 #############################################
 # Link the executable assembly_pract.exe
 
-build assembly_pract.exe: C_EXECUTABLE_LINKER__assembly_pract_Debug CMakeFiles/assembly_pract.dir/decimalToBinary.c.obj CMakeFiles/assembly_pract.dir/decToHexa.c.obj CMakeFiles/assembly_pract.dir/show_byte.c.obj CMakeFiles/assembly_pract.dir/bitwise_oprations.c.obj CMakeFiles/assembly_pract.dir/min.c.obj CMakeFiles/assembly_pract.dir/max.c.obj CMakeFiles/assembly_pract.dir/power.c.obj CMakeFiles/assembly_pract.dir/sumofnatural.c.obj CMakeFiles/assembly_pract.dir/toggleBit.c.obj
+build assembly_pract.exe: C_EXECUTABLE_LINKER__assembly_pract_Debug CMakeFiles/assembly_pract.dir/decimalToBinary.c.obj CMakeFiles/assembly_pract.dir/decToHexa.c.obj CMakeFiles/assembly_pract.dir/show_byte.c.obj CMakeFiles/assembly_pract.dir/bitwise_oprations.c.obj CMakeFiles/assembly_pract.dir/min.c.obj CMakeFiles/assembly_pract.dir/max.c.obj CMakeFiles/assembly_pract.dir/power.c.obj CMakeFiles/assembly_pract.dir/sumofnatural.c.obj CMakeFiles/assembly_pract.dir/toggleBit.c.obj CMakeFiles/assembly_pract.dir/logicalVSbitwise.c.obj CMakeFiles/assembly_pract.dir/shift_ops.c.obj CMakeFiles/assembly_pract.dir/Fig_2.3.c.obj CMakeFiles/assembly_pract.dir/ppr_pract.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\assembly_pract.dir
